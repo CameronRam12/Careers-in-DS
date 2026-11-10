@@ -5,7 +5,7 @@ data and connect it to the real-world problems. Data Sicnece pairs really great 
 
 ## Skills:
 - organization
-- time managaemnt
+- time management
 - teamwork
 - communication (in progress)
 
